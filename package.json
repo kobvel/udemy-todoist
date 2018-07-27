@@ -1,0 +1,22 @@
+{
+  "name": "udemy-todoist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kobvel/udemy-todoist.git"
+  },
+  "author": "kobvel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kobvel/udemy-todoist/issues"
+  },
+  "homepage": "https://github.com/kobvel/udemy-todoist#readme",
+  "dependencies": {
+    "csv-writer": "^1.0.0"
+  }
+}

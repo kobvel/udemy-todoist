@@ -1,0 +1,1893 @@
+{
+  "count": 327,
+  "next": "https://www.udemy.com/api-2.0/courses/1561458/public-curriculum-items/?page=2&page_size=100",
+  "previous": null,
+  "results": [{
+    "_class": "chapter",
+    "id": 2274098,
+    "created": "2018-02-19T14:31:04Z",
+    "sort_order": 326,
+    "title": "Getting Started",
+    "description": "Students will understand what CSS is, why and when to use it and what to expect from this course.",
+    "is_published": true
+  }, {
+    "_class": "lecture",
+    "id": 9429312,
+    "title": "Introduction",
+    "created": "2018-02-19T14:31:04Z",
+    "description": "<p>Let me introduce you to this course and to what you'll learn inside of it.</p>",
+    "title_cleaned": "introduction",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": true,
+    "asset": {
+      "_class": "asset",
+      "id": 11715366,
+      "asset_type": "Video",
+      "title": "getting-started-01-welcome.mp4",
+      "created": "2018-03-16T18:03:44Z"
+    },
+    "sort_order": 325,
+    "can_be_previewed": true
+  }, {
+    "_class": "lecture",
+    "id": 9429320,
+    "title": "What is CSS?",
+    "created": "2018-02-19T14:32:08Z",
+    "description": "<p>Let's start with the most important question first: What is CSS and why do we need it on our websites?</p>",
+    "title_cleaned": "what-is-css",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": true,
+    "asset": {
+      "_class": "asset",
+      "id": 11715370,
+      "asset_type": "Video",
+      "title": "getting-started-02-what-is-css.mp4",
+      "created": "2018-03-16T18:03:44Z"
+    },
+    "sort_order": 324,
+    "can_be_previewed": true
+  }, {
+    "_class": "lecture",
+    "id": 9429326,
+    "title": "CSS History, Present & Future",
+    "created": "2018-02-19T14:32:26Z",
+    "description": "<p>CSS constantly evolves so let me give you a quick overview of the past and the&nbsp;current development of CSS!</p>",
+    "title_cleaned": "css-history-present-future",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": true,
+    "asset": {
+      "_class": "asset",
+      "id": 11715374,
+      "asset_type": "Video",
+      "title": "getting-started-03-css-history-and-future.mp4",
+      "created": "2018-03-16T18:03:45Z"
+    },
+    "sort_order": 323,
+    "can_be_previewed": true
+  }, {
+    "_class": "lecture",
+    "id": 9429328,
+    "title": "Course Outline",
+    "created": "2018-02-19T14:32:28Z",
+    "description": "<p>You now know what CSS is but what does the course actually offer you?&nbsp;This lecture will answer that question.</p>",
+    "title_cleaned": "course-outline",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": true,
+    "asset": {
+      "_class": "asset",
+      "id": 11715364,
+      "asset_type": "Video",
+      "title": "getting-started-04-course-outline.mp4",
+      "created": "2018-03-16T18:03:44Z"
+    },
+    "sort_order": 322,
+    "can_be_previewed": true
+  }, {
+    "_class": "lecture",
+    "id": 9690296,
+    "title": "Choose Your Track",
+    "created": "2018-03-16T17:23:22Z",
+    "description": "<p>As noted in the course outline, this course offers multiple tracks. Here's how you reach your favorite one.</p>",
+    "title_cleaned": "choose-your-track",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11714990,
+      "asset_type": "Article",
+      "title": "",
+      "created": "2018-03-16T17:26:57Z"
+    },
+    "sort_order": 321,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9429330,
+    "title": "Course Prerequisites",
+    "created": "2018-02-19T14:32:31Z",
+    "description": "<p>You know what this courses offers, but what do you need to succeed in this course? Let's have a look at the prerequisites.</p>",
+    "title_cleaned": "course-prerequisites",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": true,
+    "asset": {
+      "_class": "asset",
+      "id": 11715368,
+      "asset_type": "Video",
+      "title": "getting-started-05-prerequisites.mp4",
+      "created": "2018-03-16T18:03:44Z"
+    },
+    "sort_order": 320,
+    "can_be_previewed": true
+  }, {
+    "_class": "lecture",
+    "id": 9429332,
+    "title": "How To Get The Most Out Of This Course",
+    "created": "2018-02-19T14:32:33Z",
+    "description": "<p>There's more than one way of taking a course. Let's find out how you can get the most out of this course in this lecture.</p>",
+    "title_cleaned": "how-to-get-the-most-out-of-this-course",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": true,
+    "asset": {
+      "_class": "asset",
+      "id": 11715372,
+      "asset_type": "Video",
+      "title": "getting-started-06-how-to-get-the-most-out-of-the-course.mp4",
+      "created": "2018-03-16T18:03:44Z"
+    },
+    "sort_order": 319,
+    "can_be_previewed": true
+  }, {
+    "_class": "lecture",
+    "id": 9429334,
+    "title": "Recommended Tools",
+    "created": "2018-02-19T14:32:35Z",
+    "description": "<p>Which tools are we using throughout this course? Time to have a quick look at our code editor and the recommended browser.</p>",
+    "title_cleaned": "recommended-tools",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": true,
+    "asset": {
+      "_class": "asset",
+      "id": 11715362,
+      "asset_type": "Video",
+      "title": "getting-started-07-course-setup.mp4",
+      "created": "2018-03-16T18:03:44Z"
+    },
+    "sort_order": 318,
+    "can_be_previewed": true
+  }, {
+    "_class": "lecture",
+    "id": 9616158,
+    "title": "Where to Find the Source Code",
+    "created": "2018-03-09T15:41:26Z",
+    "description": "<p>Find out where you can get the course source code.</p>",
+    "title_cleaned": "where-to-find-the-source-code",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11715006,
+      "asset_type": "Article",
+      "title": "",
+      "created": "2018-03-16T17:28:46Z"
+    },
+    "sort_order": 317,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9692522,
+    "title": "Useful Resources & Links",
+    "created": "2018-03-16T23:29:28Z",
+    "description": "<p>Attached to this lecture, you find the module source code. Inside of the lecture, you can find some helpful links.</p>",
+    "title_cleaned": "useful-resources-links",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11749838,
+      "asset_type": "Article",
+      "title": "",
+      "created": "2018-03-19T18:27:56Z"
+    },
+    "sort_order": 316,
+    "can_be_previewed": false
+  }, {
+    "_class": "chapter",
+    "id": 2274112,
+    "created": "2018-02-19T14:33:17Z",
+    "sort_order": 315,
+    "title": "Diving Into the Basics of CSS",
+    "description": "Students will understand the core concepts behind CSS and be able to to apply these basic concepts on their own",
+    "is_published": true
+  }, {
+    "_class": "lecture",
+    "id": 9429348,
+    "title": "Module Introduction",
+    "created": "2018-02-19T14:33:30Z",
+    "description": "<p>Let me introduce you to this module and to what you'll learn inside of it.</p>",
+    "title_cleaned": "module-introduction",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11425492,
+      "asset_type": "Video",
+      "title": "basics-01-intro.mp4",
+      "created": "2018-02-22T11:30:41Z"
+    },
+    "sort_order": 314,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9429350,
+    "title": "Understanding the Course Project Setup",
+    "created": "2018-02-19T14:33:34Z",
+    "description": "<p>This is a hands-on course, so we will learn CSS&nbsp;in practice. Time to take a closer look at the starting setup for our course project!</p>",
+    "title_cleaned": "understanding-the-course-project-setup",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11425508,
+      "asset_type": "Video",
+      "title": "basics-02-understanding-the-project-setup.mp4",
+      "created": "2018-02-22T11:30:41Z"
+    },
+    "sort_order": 313,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9429358,
+    "title": "Adding CSS to our Project with Inline Styles",
+    "created": "2018-02-19T14:34:05Z",
+    "description": "<p>We have an index.html file, but how can we add CSS&nbsp;now? Let me show you inline styles and how these allow us to change the look of our website!</p>",
+    "title_cleaned": "adding-css-to-our-project-with-inline-styles",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11425500,
+      "asset_type": "Video",
+      "title": "basics-03-adding-inline-styles.mp4",
+      "created": "2018-02-22T11:30:41Z"
+    },
+    "sort_order": 312,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9429362,
+    "title": "Understanding the <style> Tag & Creating a .css File",
+    "created": "2018-02-19T14:34:16Z",
+    "description": "<p>We learned that inline styles are probably not the best way to add CSS code. So let's have a look at two other ways&nbsp;to achieve this&nbsp;and also explain&nbsp;which approach we will follow throughout the course.</p>",
+    "title_cleaned": "understanding-the-style-tag-creating-a-css-file",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11425512,
+      "asset_type": "Video",
+      "title": "basics-04-adding-css-in-the-head-and-in-a-separate-file.mp4",
+      "created": "2018-02-22T11:30:41Z"
+    },
+    "sort_order": 311,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9429366,
+    "title": "Applying Additional Styles & Importing Google Fonts",
+    "created": "2018-02-19T14:34:28Z",
+    "description": "<p>We added CSS&nbsp;and applied some basic&nbsp;styling, but so far the same style is applied to all elements. Time to change that, so let's understand how we can select a specific element and add styles to it. Additionally, we'll import fonts using Google Fonts.</p>",
+    "title_cleaned": "applying-additional-styles-importing-google-fonts",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11425490,
+      "asset_type": "Video",
+      "title": "basics-05-applying-different-styles-to-different-elements.mp4",
+      "created": "2018-02-22T11:30:41Z"
+    },
+    "sort_order": 310,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9429374,
+    "title": "Theory Time - Selectors",
+    "created": "2018-02-19T14:36:13Z",
+    "description": "<p>We learned how to select elements, but we probably need more selectors to style our website individually. Thankfully, we do have more selectors available in CSS, so let's understand classes, IDs and attribute selectors!</p>",
+    "title_cleaned": "theory-time-selectors",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11442862,
+      "asset_type": "Video",
+      "title": "basics-06-theory-time-selectors.mp4",
+      "created": "2018-02-23T17:33:23Z"
+    },
+    "sort_order": 309,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9429382,
+    "title": "Understanding the \"Cascading\" Style & Specificity​",
+    "created": "2018-02-19T14:36:27Z",
+    "description": "<p>Our website keeps growing, but why are some styles applied and why is this not true for others? Turns out that there are two important concepts that are mainly&nbsp;responsible for that: The \"Cascading\" nature of CSS&nbsp;and Specificity. But what is the idea behind these?</p>",
+    "title_cleaned": "understanding-the-cascading-style-specificity",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11839308,
+      "asset_type": "Video",
+      "title": "basics-07-understanding-the-cascading-style-and-specifity.mp4",
+      "created": "2018-03-26T11:25:36Z"
+    },
+    "sort_order": 308,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9429386,
+    "title": "Understanding Inheritance",
+    "created": "2018-02-19T14:36:36Z",
+    "description": "<p>We understood Specificity&nbsp;so the general styling logic is clear now. Unfortunately not, there is one additional core concept we definitely have to understand: Inheritance. Time to add this to our project and to understand it in this video!</p>",
+    "title_cleaned": "understanding-inheritance",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11425496,
+      "asset_type": "Video",
+      "title": "basics-08-understanding-inheritance.mp4",
+      "created": "2018-02-22T11:30:41Z"
+    },
+    "sort_order": 307,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9429390,
+    "title": "Adding Combinators",
+    "created": "2018-02-19T14:36:48Z",
+    "description": "<p>For the styling of a website&nbsp;it is very important to define the look of the different parts of the website individually, because we definitely do not want our website to have the same style all over. Combinators&nbsp;helps us to achieve that.</p>",
+    "title_cleaned": "adding-combinators",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11425494,
+      "asset_type": "Video",
+      "title": "basics-09-adding-a-combinator.mp4",
+      "created": "2018-02-22T11:30:41Z"
+    },
+    "sort_order": 306,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9462684,
+    "title": "Theory Time - Combinators",
+    "created": "2018-02-22T10:11:12Z",
+    "description": "<p>We added the descendant combinator, but there are more combinators available in CSS. Time to dive into these in this theory lecture.</p>",
+    "title_cleaned": "theory-time-combinators",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11698244,
+      "asset_type": "Video",
+      "title": "basics-10-theory-time-combinators.mp4",
+      "created": "2018-03-15T11:34:47Z"
+    },
+    "sort_order": 305,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9462690,
+    "title": "Summarizing Properties & Selectors",
+    "created": "2018-02-22T10:11:34Z",
+    "description": "<p>We learned a lot about the CSS&nbsp;core concepts in this module.&nbsp;Let me quickly summarize what we learned so far about selectors, properties and values!</p>",
+    "title_cleaned": "summarizing-properties-selectors",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11425514,
+      "asset_type": "Video",
+      "title": "basics-11-summarizing-selectors-properties-and-values.mp4",
+      "created": "2018-02-22T11:30:41Z"
+    },
+    "sort_order": 304,
+    "can_be_previewed": false
+  }, {
+    "_class": "quiz",
+    "id": 4406142,
+    "title": "Selectors & Combinators",
+    "type": "simple-quiz",
+    "created": "2018-03-19T06:37:53Z",
+    "description": "<p>Do you know how to work with all these selectors and combinators?</p>",
+    "title_cleaned": "",
+    "is_published": true,
+    "sort_order": 303,
+    "object_index": 1,
+    "is_draft": false,
+    "version": 1,
+    "duration": 0,
+    "pass_percent": 70
+  }, {
+    "_class": "practice",
+    "id": 43378,
+    "title": "Time to Practice - The Basics",
+    "is_free": false,
+    "is_published": true,
+    "sort_order": 302
+  }, {
+    "_class": "lecture",
+    "id": 9462694,
+    "title": "Wrap Up",
+    "created": "2018-02-22T10:11:39Z",
+    "description": "<p>Let me wrap this module up and summarize what you learned thus far.</p>",
+    "title_cleaned": "wrap-up",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11425498,
+      "asset_type": "Video",
+      "title": "basics-14-wrap-up.mp4",
+      "created": "2018-02-22T11:30:41Z"
+    },
+    "sort_order": 301,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9462698,
+    "title": "Useful Resources & Links",
+    "created": "2018-02-22T10:11:48Z",
+    "description": "<p>Attached to this lecture, you find the module source code. Inside of the lecture, you can find some helpful links.</p>",
+    "title_cleaned": "useful-resources-links",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11705880,
+      "asset_type": "Article",
+      "title": "",
+      "created": "2018-03-15T23:11:30Z"
+    },
+    "sort_order": 300,
+    "can_be_previewed": false
+  }, {
+    "_class": "chapter",
+    "id": 2282184,
+    "created": "2018-02-22T17:11:49Z",
+    "sort_order": 299,
+    "title": "Diving Deeper into CSS",
+    "description": "Students will apply the knowledge gained in the last module and use it do dive deeper into the CSS basics and to understand additional fundamental concepts",
+    "is_published": true
+  }, {
+    "_class": "lecture",
+    "id": 9466082,
+    "title": "Module Introduction",
+    "created": "2018-02-22T17:11:54Z",
+    "description": "<p>Let me introduce you to this module and to what you'll learn inside of it.</p>",
+    "title_cleaned": "module-introduction",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11429718,
+      "asset_type": "Video",
+      "title": "more-basics-01-intro.mp4",
+      "created": "2018-02-22T17:53:03Z"
+    },
+    "sort_order": 298,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9466088,
+    "title": "Introducing the CSS Box Model",
+    "created": "2018-02-22T17:12:09Z",
+    "description": "<p>One of the most important concepts to understand&nbsp;is the way CSS interacts with elements in HTML. This concept&nbsp;is&nbsp;called the box model, so let's see if we can find such a box&nbsp;in our project!</p>",
+    "title_cleaned": "introducing-the-css-box-model",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11429714,
+      "asset_type": "Video",
+      "title": "more-basics-02-introducing-the-box-model.mp4",
+      "created": "2018-02-22T17:53:03Z"
+    },
+    "sort_order": 297,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9466092,
+    "title": "Understanding the Box Model",
+    "created": "2018-02-22T17:12:21Z",
+    "description": "<p>Content, padding, border, margin - we found and understood&nbsp;these parts of the box model. Let's now take a closer look at it&nbsp;and also understand the box model concept in connection with parent and child elements.</p>",
+    "title_cleaned": "understanding-the-box-model",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11429720,
+      "asset_type": "Video",
+      "title": "more-basics-03-understanding-the-box-model.mp4",
+      "created": "2018-02-22T17:53:03Z"
+    },
+    "sort_order": 296,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9466098,
+    "title": "Understanding Margin Collapsing and Removing Default Margins",
+    "created": "2018-02-22T17:12:52Z",
+    "description": "<p>Why could we&nbsp;observe&nbsp;overlapping margins between two elements? Let's understand why margin collapsing causes this behaviour&nbsp;and how we can&nbsp;remove the default margin from the &lt;body&gt;.</p>",
+    "title_cleaned": "understanding-margin-collapsing-and-removing-default-margins",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11429738,
+      "asset_type": "Video",
+      "title": "more-basics-04-margin-collapsing-and-removing-default-margins.mp4",
+      "created": "2018-02-22T17:53:03Z"
+    },
+    "sort_order": 295,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9464964,
+    "title": "Deep Dive on \"Margin Collapsing\"",
+    "created": "2018-02-22T15:17:42Z",
+    "description": "<p>Margins of elements can behave unexpectedly - here's a deep dive on the phenomena.</p>",
+    "title_cleaned": "deep-dive-on-margin-collapsing",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11427626,
+      "asset_type": "Article",
+      "title": "",
+      "created": "2018-02-22T15:25:20Z"
+    },
+    "sort_order": 294,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9466102,
+    "title": "Theory Time - Working with Shorthand Properties",
+    "created": "2018-02-22T17:13:04Z",
+    "description": "<p>Theory time! Throughout this course we already applied a lot of properties. Turns out that we can combine multiple properties in a single one by using a&nbsp;shorthand. Let's understand these&nbsp;shorthands&nbsp;in this video!</p>",
+    "title_cleaned": "theory-time-working-with-shorthand-properties",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11698242,
+      "asset_type": "Video",
+      "title": "more-basics-05-theory-time-working-with-shorthand-properties.mp4",
+      "created": "2018-03-15T11:34:47Z"
+    },
+    "sort_order": 293,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9466104,
+    "title": "Applying Shorthands in Practice",
+    "created": "2018-02-22T17:13:14Z",
+    "description": "<p>Shorthands seem to make writing CSS code a lot easier. Let's try it out and apply some in practice in our project!</p>",
+    "title_cleaned": "applying-shorthands-in-practice",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11429712,
+      "asset_type": "Video",
+      "title": "more-basics-06-applying-shorthands-in-practice.mp4",
+      "created": "2018-02-22T17:53:03Z"
+    },
+    "sort_order": 292,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9466108,
+    "title": "Diving Into the Height & Width Properties",
+    "created": "2018-02-22T17:13:29Z",
+    "description": "<p>Styling our website also requires to define the size of our elements. In this video, we will apply the \"height\" and \"width\" properties&nbsp;and see how we can use these to change the box&nbsp;size according to our needs.</p>",
+    "title_cleaned": "diving-into-the-height-width-properties",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11429710,
+      "asset_type": "Video",
+      "title": "more-basics-07-diving-into-width-and-height.mp4",
+      "created": "2018-02-22T17:53:03Z"
+    },
+    "sort_order": 291,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9466116,
+    "title": "Understanding Box Sizing",
+    "created": "2018-02-22T17:13:39Z",
+    "description": "<p>We changed the \"height\" and the \"width\", but what was actually changed? Let's dive into the \"box-sizing\" property&nbsp;and&nbsp;also learn, how we can use this property to change the default behaviour of the \"height\" and \"width\" properties.</p>",
+    "title_cleaned": "understanding-box-sizing",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11429704,
+      "asset_type": "Video",
+      "title": "more-basics-08-understanding-box-sizing.mp4",
+      "created": "2018-02-22T17:53:03Z"
+    },
+    "sort_order": 290,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9466122,
+    "title": "Adding the Header to our Project",
+    "created": "2018-02-22T17:13:53Z",
+    "description": "<p>Let's apply what we learned so far and dive deeper into our project. In this video, it's time to work on the header!</p>",
+    "title_cleaned": "adding-the-header-to-our-project",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11429734,
+      "asset_type": "Video",
+      "title": "more-basics-09-adding-the-header-to-our-project.mp4",
+      "created": "2018-02-22T17:53:03Z"
+    },
+    "sort_order": 289,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9466124,
+    "title": "Understanding the Display Property",
+    "created": "2018-02-22T17:14:03Z",
+    "description": "<p>We have two types of elements in HTML -&nbsp;block-level and inline. But is there a way to change the default behaviour of these elements? Turns out it is, so let's find out how we can achieve this and why this might be helpful in certain situations.</p>",
+    "title_cleaned": "understanding-the-display-property",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11429716,
+      "asset_type": "Video",
+      "title": "more-basics-10-understanding-the-display-property.mp4",
+      "created": "2018-02-22T17:53:03Z"
+    },
+    "sort_order": 288,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9464806,
+    "title": "display: none vs visibility: hidden",
+    "created": "2018-02-22T15:02:56Z",
+    "description": "<p>There's more than one way of hiding elements on the page. Let's explore the differences between display:&nbsp;none; and visibility:&nbsp;hidden.</p>",
+    "title_cleaned": "display-none-vs-visibility-hidden",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11427480,
+      "asset_type": "Article",
+      "title": "",
+      "created": "2018-02-22T15:08:09Z"
+    },
+    "sort_order": 287,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9464830,
+    "title": "HTML Refresher: Block-level vs Inline Elements",
+    "created": "2018-02-22T15:08:28Z",
+    "description": "<p>It's not really a CSS&nbsp;topic (though it's related to it)&nbsp;but it's super important to know. The difference between block-level and inline elements.</p>",
+    "title_cleaned": "html-refresher-block-level-vs-inline-elements",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11517454,
+      "asset_type": "Article",
+      "title": "",
+      "created": "2018-03-01T15:41:27Z"
+    },
+    "sort_order": 286,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9466130,
+    "title": "Applying the Display Property & Styling our Navigation Bar",
+    "created": "2018-02-22T17:14:45Z",
+    "description": "<p>After we understood the \"display\" property it's now time to style our navigation bar. For that we'll also use the advantages of the \"inline-block\" value of this property.</p>",
+    "title_cleaned": "applying-the-display-property-styling-our-navigation-bar",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11429728,
+      "asset_type": "Video",
+      "title": "more-basics-11-applying-display-block-and-styling-our-navigation-bar.mp4",
+      "created": "2018-02-22T17:53:03Z"
+    },
+    "sort_order": 285,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9466136,
+    "title": "Understanding an Unexpected \"inline-block\" Behaviour",
+    "created": "2018-02-22T17:15:09Z",
+    "description": "<p>\"inline-block\"&nbsp;is a really helpful value, but there is one specific behaviour which can cause problems in practice. Let me show you which problem this is&nbsp;and how you can easily solve it.</p>",
+    "title_cleaned": "understanding-an-unexpected-inline-block-behaviour",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11429700,
+      "asset_type": "Video",
+      "title": "more-basics-12-understanding-a-crucial-display-inline-block-behaviour.mp4",
+      "created": "2018-02-22T17:53:03Z"
+    },
+    "sort_order": 284,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9466142,
+    "title": "Working with \"text-decoration\" & \"vertical-align\"",
+    "created": "2018-02-22T17:15:29Z",
+    "description": "<p>Let's continue the work in our project and improve the styling of our navigation. For that, we will style links with \"text-decoration\" and align elements with \"vertical-align\".</p>",
+    "title_cleaned": "working-with-text-decoration-vertical-align",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11429726,
+      "asset_type": "Video",
+      "title": "more-basics-13-working-with-text-decoration-and-vertical-align.mp4",
+      "created": "2018-02-22T17:53:03Z"
+    },
+    "sort_order": 283,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9466146,
+    "title": "Styling Anchor Tags",
+    "created": "2018-02-22T17:15:51Z",
+    "description": "<p>Styling links is very important as every website contain such. The default styling is not the most beautiful one though, so let's find out how we can improve that.</p>",
+    "title_cleaned": "styling-anchor-tags",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11429732,
+      "asset_type": "Video",
+      "title": "more-basics-14-styling-anchor-tags.mp4",
+      "created": "2018-02-22T17:53:03Z"
+    },
+    "sort_order": 282,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9466148,
+    "title": "Adding Pseudo Classes",
+    "created": "2018-02-22T17:16:01Z",
+    "description": "<p>Pseudo classes are a big help to improve the user experience on our website. Why don't we take the chance and apply some pseudo-classes in our project?</p>",
+    "title_cleaned": "adding-pseudo-classes",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11429696,
+      "asset_type": "Video",
+      "title": "more-basics-15-adding-pseudo-classes.mp4",
+      "created": "2018-02-22T17:53:03Z"
+    },
+    "sort_order": 281,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9466150,
+    "title": "Theory Time - Pseudo Classes & Pseudo Elements",
+    "created": "2018-02-22T17:16:19Z",
+    "description": "<p>Time to dive into the theory. We already applied pseudo classes, but which additional values are available and what is the difference between a pseudo class and a pseudo-element? Let's find the answers in this video!</p>",
+    "title_cleaned": "theory-time-pseudo-classes-pseudo-elements",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11429740,
+      "asset_type": "Video",
+      "title": "more-basics-16-theory-time-pseudo-classes-and-elements.mp4",
+      "created": "2018-02-22T17:53:03Z"
+    },
+    "sort_order": 280,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9466154,
+    "title": "Grouping Rules",
+    "created": "2018-02-22T17:16:29Z",
+    "description": "<p>Sometimes&nbsp;the same rules should be applied to different selectors. Turns out we can avoid repeating these rules again and again by grouping them. Let me show you how this works.</p>",
+    "title_cleaned": "grouping-rules",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11429708,
+      "asset_type": "Video",
+      "title": "more-basics-17-grouping-rules.mp4",
+      "created": "2018-02-22T17:53:03Z"
+    },
+    "sort_order": 279,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9466156,
+    "title": "Working with \"font-weight\" & \"border\"",
+    "created": "2018-02-22T17:16:48Z",
+    "description": "<p>We constantly improve the look of our website, so let's use \"font-weight\" to change the default font style of selected elements. In addition to that, it's also time to add some borders.</p>",
+    "title_cleaned": "working-with-font-weight-border",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11429698,
+      "asset_type": "Video",
+      "title": "more-basics-18-working-with-font-weight-and-borders.mp4",
+      "created": "2018-02-22T17:53:03Z"
+    },
+    "sort_order": 278,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9466160,
+    "title": "Adding & Styling a CTA-Button",
+    "created": "2018-02-22T17:17:08Z",
+    "description": "<p>Until now we only have list items in our navigation bar. Wouldn't it be great to have a special CTA-button in a different style? I think it would, so let's add one in this video.</p>",
+    "title_cleaned": "adding-styling-a-cta-button",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11429722,
+      "asset_type": "Video",
+      "title": "more-basics-19-turning-a-list-item-into-a-cta-button-and-adding-style.mp4",
+      "created": "2018-02-22T17:53:03Z"
+    },
+    "sort_order": 277,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9466166,
+    "title": "Adding a Background Image to our Project",
+    "created": "2018-02-22T17:17:23Z",
+    "description": "<p>The red block level element in the background is ok, but I&nbsp;think a real&nbsp;background image definitely would improve the user experience. Let's learn how we can easily add such an image in this video!</p>",
+    "title_cleaned": "adding-a-background-image-to-our-project",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11429730,
+      "asset_type": "Video",
+      "title": "more-basics-20-adding-a-background-image.mp4",
+      "created": "2018-02-22T17:53:03Z"
+    },
+    "sort_order": 276,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9466170,
+    "title": "Properties Worth to Remember",
+    "created": "2018-02-22T17:17:36Z",
+    "description": "<p>Puh, we worked with a lot of properties so far. Of course we don't have to remember every single property, but you will probably use some properties a lot. This short list will help you remembering these.</p>",
+    "title_cleaned": "properties-worth-to-remember",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11429736,
+      "asset_type": "Video",
+      "title": "more-basics-21-properties-worth-to-remember.mp4",
+      "created": "2018-02-22T17:53:03Z"
+    },
+    "sort_order": 275,
+    "can_be_previewed": false
+  }, {
+    "_class": "practice",
+    "id": 43438,
+    "title": "Time to Practice - Diving Deeper into CSS",
+    "is_free": false,
+    "is_published": true,
+    "sort_order": 274
+  }, {
+    "_class": "lecture",
+    "id": 9466174,
+    "title": "Wrap Up",
+    "created": "2018-02-22T17:18:00Z",
+    "description": "<p>Let me wrap this module up and summarize what you learned thus far.</p>",
+    "title_cleaned": "wrap-up",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11429702,
+      "asset_type": "Video",
+      "title": "more-basics-24-wrap-up.mp4",
+      "created": "2018-02-22T17:53:03Z"
+    },
+    "sort_order": 273,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9466176,
+    "title": "Useful Resources & Links",
+    "created": "2018-02-22T17:18:18Z",
+    "description": "<p>Attached to this lecture, you find the module source code. Inside of the lecture, you can find some helpful links.</p>",
+    "title_cleaned": "useful-resources-links",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11705894,
+      "asset_type": "Article",
+      "title": "",
+      "created": "2018-03-15T23:14:56Z"
+    },
+    "sort_order": 272,
+    "can_be_previewed": false
+  }, {
+    "_class": "chapter",
+    "id": 2329016,
+    "created": "2018-03-15T12:42:46Z",
+    "sort_order": 271,
+    "title": "More on Selectors & CSS Features",
+    "description": "Students will understand how they may work with CSS selectors and what they should watch out for when implementing various CSS features.",
+    "is_published": true
+  }, {
+    "_class": "lecture",
+    "id": 9677104,
+    "title": "Module Introduction",
+    "created": "2018-03-15T12:43:12Z",
+    "description": "<p>Let me introduce you to this module and what you'll learn in it.</p>",
+    "title_cleaned": "module-introduction",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11699296,
+      "asset_type": "Video",
+      "title": "more-on-selectors-01-intro.mp4",
+      "created": "2018-03-15T13:09:14Z"
+    },
+    "sort_order": 270,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9677118,
+    "title": "Using Multiple CSS Classes & Combined Selectors",
+    "created": "2018-03-15T12:44:11Z",
+    "description": "<p>There are a couple of things we can do with CSS&nbsp;classes and selectors in general.</p>",
+    "title_cleaned": "using-multiple-css-classes-combined-selectors",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11699326,
+      "asset_type": "Video",
+      "title": "more-on-selectors-02-multiple-and-combined-classes.mp4",
+      "created": "2018-03-15T13:12:56Z"
+    },
+    "sort_order": 269,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9677142,
+    "title": "Classes or IDs?",
+    "created": "2018-03-15T12:46:39Z",
+    "description": "<p>Besides class selectors, we can use ID selectors, tag selectors etc. But which one should you use?</p>",
+    "title_cleaned": "classes-or-ids",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11699316,
+      "asset_type": "Video",
+      "title": "more-on-selectors-03-classes-vs-ids.mp4",
+      "created": "2018-03-15T13:11:38Z"
+    },
+    "sort_order": 268,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9677146,
+    "title": "(Not) using !important",
+    "created": "2018-03-15T12:47:14Z",
+    "description": "<p>In very, very, very rare cases, you might need to force a certain declaration to overwrite the others, even though it normally wouldn't. Here comes !important.</p>",
+    "title_cleaned": "not-using-important",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11699310,
+      "asset_type": "Video",
+      "title": "more-on-selectors-04-important.mp4",
+      "created": "2018-03-15T13:10:46Z"
+    },
+    "sort_order": 267,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9677154,
+    "title": "Selecting the Opposite with :not()",
+    "created": "2018-03-15T12:49:18Z",
+    "description": "<p>Thus far, we always set our rules up to select certain elements. You can also set up rules that DON'T select something.</p>",
+    "title_cleaned": "selecting-the-opposite-with-not",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11699340,
+      "asset_type": "Video",
+      "title": "more-on-selectors-05-not.mp4",
+      "created": "2018-03-15T13:13:58Z"
+    },
+    "sort_order": 266,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9677166,
+    "title": "CSS & Browser Support",
+    "created": "2018-03-15T12:50:41Z",
+    "description": "<p>Not all CSS&nbsp;features are supported by all browsers. This lecture explains how you find out what is supported and what's not.</p>",
+    "title_cleaned": "css-browser-support",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11699352,
+      "asset_type": "Video",
+      "title": "more-on-selectors-06-browser-support.mp4",
+      "created": "2018-03-15T13:15:01Z"
+    },
+    "sort_order": 265,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9677170,
+    "title": "Wrap Up",
+    "created": "2018-03-15T12:51:31Z",
+    "description": "<p>Let me wrap this module up and summarize what we learned thus far.</p>",
+    "title_cleaned": "wrap-up",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11699304,
+      "asset_type": "Video",
+      "title": "more-on-selectors-07-summary.mp4",
+      "created": "2018-03-15T13:10:11Z"
+    },
+    "sort_order": 264,
+    "can_be_previewed": false
+  }, {
+    "_class": "quiz",
+    "id": 4406178,
+    "title": "Rounding up the Basics",
+    "type": "simple-quiz",
+    "created": "2018-03-19T09:00:51Z",
+    "description": "<p>We got the very basics of CSS covered. Time to round it up and check if you got them down.</p>",
+    "title_cleaned": "",
+    "is_published": true,
+    "sort_order": 263,
+    "object_index": 2,
+    "is_draft": false,
+    "version": 1,
+    "duration": 0,
+    "pass_percent": 70
+  }, {
+    "_class": "lecture",
+    "id": 9677180,
+    "title": "Useful Resources & Links",
+    "created": "2018-03-15T12:52:05Z",
+    "description": "<p>Attached to this lecture, you find the module resources. In the lecture, you find some helpful links.</p>",
+    "title_cleaned": "useful-resources-links",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11705912,
+      "asset_type": "Article",
+      "title": "",
+      "created": "2018-03-15T23:17:16Z"
+    },
+    "sort_order": 262,
+    "can_be_previewed": false
+  }, {
+    "_class": "chapter",
+    "id": 2284216,
+    "created": "2018-02-23T16:24:47Z",
+    "sort_order": 261,
+    "title": "Practicing the Basics",
+    "description": "Students will actively practice the concepts learned so far and apply these by styling an entire webpage",
+    "is_published": true
+  }, {
+    "_class": "lecture",
+    "id": 9474898,
+    "title": "Module Introduction",
+    "created": "2018-02-23T16:24:54Z",
+    "description": "<p>Let me introduce you to this module and to what you'll learn inside of it.</p>",
+    "title_cleaned": "module-introduction",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11442622,
+      "asset_type": "Video",
+      "title": "practicing-the-basics-01-intro.mp4",
+      "created": "2018-02-23T17:04:24Z"
+    },
+    "sort_order": 260,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9474900,
+    "title": "Adding Style to our Plans",
+    "created": "2018-02-23T16:25:01Z",
+    "description": "<p>Our page gets more and more beautiful, but there is still a lot of content and styling missing. So let's add our different hosting plans and some basic styling&nbsp;in this video!</p>",
+    "title_cleaned": "adding-style-to-our-plans",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11442652,
+      "asset_type": "Video",
+      "title": "practicing-the-basics-02-adding-style-to-our-plans.mp4",
+      "created": "2018-02-23T17:04:24Z"
+    },
+    "sort_order": 259,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9474904,
+    "title": "Working on the Recommended Plan",
+    "created": "2018-02-23T16:25:16Z",
+    "description": "<p>We want our users to focus onto the recommended plan. Let's use our CSS&nbsp;knowledge to highlight this plan!</p>",
+    "title_cleaned": "working-on-the-recommended-plan",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11442640,
+      "asset_type": "Video",
+      "title": "practicing-the-basics-03-working-on-the-recommended-plan-box-shadow-color-functions.mp4",
+      "created": "2018-02-23T17:04:24Z"
+    },
+    "sort_order": 258,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9474908,
+    "title": "Styling the Badge with \"border-radius\"",
+    "created": "2018-02-23T16:25:31Z",
+    "description": "<p>The badge on the recommended plan doesn't stand out so far. Time to add some styling to it, to make clear that this is the plan to choose!</p>",
+    "title_cleaned": "styling-the-badge-with-border-radius",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11442626,
+      "asset_type": "Video",
+      "title": "practicing-the-basics-04-styling-the-badge-with-border-radius.mp4",
+      "created": "2018-02-23T17:04:24Z"
+    },
+    "sort_order": 257,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9474910,
+    "title": "Styling our List",
+    "created": "2018-02-23T16:25:37Z",
+    "description": "<p>All our plans include&nbsp;lists which present the features of the corresponding plan. The bullet points are quite ugly though,&nbsp;so let's remove these and improve the look of our lists!</p>",
+    "title_cleaned": "styling-our-list",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11442646,
+      "asset_type": "Video",
+      "title": "practicing-the-basics-05-styling-our-list.mp4",
+      "created": "2018-02-23T17:04:24Z"
+    },
+    "sort_order": 256,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9474912,
+    "title": "Working on the Title and the Price of our Packages",
+    "created": "2018-02-23T16:25:46Z",
+    "description": "<p>Let's continue with the title and the price presented on our plans. So far these look pretty unspectacular, time to change that!</p>",
+    "title_cleaned": "working-on-the-title-and-the-price-of-our-packages",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11442634,
+      "asset_type": "Video",
+      "title": "practicing-the-basics-06-working-on-the-title-and-the-price.mp4",
+      "created": "2018-02-23T17:04:24Z"
+    },
+    "sort_order": 255,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9474916,
+    "title": "Improving our Action Button",
+    "created": "2018-02-23T16:25:55Z",
+    "description": "<p>The action button&nbsp;at the bottom of each box will redirect the&nbsp;user to the plan purchasing page. We want to make sure that our users click these buttons, so some nice button style might be a good idea.</p>",
+    "title_cleaned": "improving-our-action-button",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11442624,
+      "asset_type": "Video",
+      "title": "practicing-the-basics-07-improving-our-action-button.mp4",
+      "created": "2018-02-23T17:04:24Z"
+    },
+    "sort_order": 254,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9474918,
+    "title": "Understanding Outlines",
+    "created": "2018-02-23T16:26:03Z",
+    "description": "<p>We styled our buttons, but if we hover over these&nbsp;we still see an additional blue outline. This is automatically added to the element and definitely something we don't want to be displayed. Let's learn how we can remove it in this video.</p>",
+    "title_cleaned": "understanding-outlines",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11442636,
+      "asset_type": "Video",
+      "title": "practicing-the-basics-08-understanding-outlines.mp4",
+      "created": "2018-02-23T17:04:24Z"
+    },
+    "sort_order": 253,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9474922,
+    "title": "Presenting the Core Features to the User",
+    "created": "2018-02-23T16:26:16Z",
+    "description": "<p>Time to add another (unstyled) section, which presents the core advantages of our hosting service to the user!</p>",
+    "title_cleaned": "presenting-the-core-features-to-the-user",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11442616,
+      "asset_type": "Video",
+      "title": "practicing-the-basics-09-presenting-the-core-features-to-the-user.mp4",
+      "created": "2018-02-23T17:04:24Z"
+    },
+    "sort_order": 252,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9474924,
+    "title": "Styling the Headline of the Core Features Section",
+    "created": "2018-02-23T16:26:30Z",
+    "description": "<p>Let's start styling the new&nbsp;section! A&nbsp;good starting point probably is&nbsp;the headline and the background!</p>",
+    "title_cleaned": "styling-the-headline-of-the-core-features-section",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11442630,
+      "asset_type": "Video",
+      "title": "practicing-the-basics-10-styling-the-headline-of-the-core-features-section.mp4",
+      "created": "2018-02-23T17:04:24Z"
+    },
+    "sort_order": 251,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9474928,
+    "title": "Preparing the Content of the Key Feature Area",
+    "created": "2018-02-23T16:26:52Z",
+    "description": "<p>Time to style the list which includes&nbsp;our core website&nbsp;features. As these are presented as list items, we can apply our previous knowledge to change the list style. Additionally, we should align the features.</p>",
+    "title_cleaned": "preparing-the-content-of-the-key-feature-area",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11442896,
+      "asset_type": "Video",
+      "title": "practicing-the-basics-11-preparing-the-key-feature-area-content.mp4",
+      "created": "2018-02-23T17:40:36Z"
+    },
+    "sort_order": 250,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9474934,
+    "title": "Adding the Footer",
+    "created": "2018-02-23T16:26:59Z",
+    "description": "<p>We reached the end of our starting page - time to add a footer. Let's learn how we can easily add one in this video!</p>",
+    "title_cleaned": "adding-the-footer",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11442644,
+      "asset_type": "Video",
+      "title": "practicing-the-basics-12-adding-the-footer.mp4",
+      "created": "2018-02-23T17:04:24Z"
+    },
+    "sort_order": 249,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9474936,
+    "title": "What we Achieved so Far",
+    "created": "2018-02-23T16:27:06Z",
+    "description": "<p>We finished (at least partially) our starting page. So let's think about what we achieved so far and how we can continue. Because one page probably is not enough...</p>",
+    "title_cleaned": "what-we-achieved-so-far",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11442638,
+      "asset_type": "Video",
+      "title": "practicing-the-basics-13-what-we-achieved-so-far.mp4",
+      "created": "2018-02-23T17:04:24Z"
+    },
+    "sort_order": 248,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9474940,
+    "title": "Adding the Packages Page",
+    "created": "2018-02-23T16:27:14Z",
+    "description": "<p>Time to add more content, this time for the packages page. We know how this works, so let's add the HTML&nbsp;code and apply some basic styling to get started.</p>",
+    "title_cleaned": "adding-the-packages-page",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11442650,
+      "asset_type": "Video",
+      "title": "practicing-the-basics-14-adding-the-packages-page.mp4",
+      "created": "2018-02-23T17:04:24Z"
+    },
+    "sort_order": 247,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9474942,
+    "title": "Your Challenge",
+    "created": "2018-02-23T16:27:20Z",
+    "description": "<p>Now it's your turn! You learned a lot so far, so let's take the chance and practice what we learned. Style the page on your own and try to achieve the result shown in this video!</p>",
+    "title_cleaned": "your-challenge",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11442632,
+      "asset_type": "Video",
+      "title": "practicing-the-basics-15-your-challenge.mp4",
+      "created": "2018-02-23T17:04:24Z"
+    },
+    "sort_order": 246,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9474944,
+    "title": "Styling the Links",
+    "created": "2018-02-23T16:27:28Z",
+    "description": "<p>How did I solve it? Let me show you my solution in this video and let's start with the styling of our links.</p>",
+    "title_cleaned": "styling-the-links",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11442642,
+      "asset_type": "Video",
+      "title": "practicing-the-basics-16-styling-the-links.mp4",
+      "created": "2018-02-23T17:04:24Z"
+    },
+    "sort_order": 245,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9474946,
+    "title": "Styling our Package Boxes",
+    "created": "2018-02-23T16:27:36Z",
+    "description": "<p>The links look fine, but the different plans also need individual styles. Time to add these in this video!</p>",
+    "title_cleaned": "styling-our-package-boxes",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11442628,
+      "asset_type": "Video",
+      "title": "practicing-the-basics-17-styling-the-package-boxes.mp4",
+      "created": "2018-02-23T17:04:24Z"
+    },
+    "sort_order": 244,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9474948,
+    "title": "Adding \"float\" to our Package",
+    "created": "2018-02-23T16:27:47Z",
+    "description": "<p>Until now&nbsp;the plans are displayed according to the document flow, but we would prefer to display one plan aligned to the right part of the page. How could we achieve this?</p>",
+    "title_cleaned": "adding-float-to-our-package",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11442614,
+      "asset_type": "Video",
+      "title": "practicing-the-basics-18-adding-float-to-our-package.mp4",
+      "created": "2018-02-23T17:04:24Z"
+    },
+    "sort_order": 243,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9474950,
+    "title": "Fixing the Hover Effect",
+    "created": "2018-02-23T16:28:09Z",
+    "description": "<p>With \"float\" being applied, the free plan is positioned correctly, but the hover effect doesn't work correctly any more. Let me show you how to easily fix that in this video.</p>",
+    "title_cleaned": "fixing-the-hover-effect",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11442620,
+      "asset_type": "Video",
+      "title": "practicing-the-basics-19-fixing-the-hover-effect.mp4",
+      "created": "2018-02-23T17:04:24Z"
+    },
+    "sort_order": 242,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9474952,
+    "title": "Adding the Final Touches",
+    "created": "2018-02-23T16:28:17Z",
+    "description": "<p>This was a lot of work, but we now finished two pages -&nbsp;great job! Let's fix some minor issues&nbsp;before we dive deeper into positioning in the next module to further improve the look of our website!</p>",
+    "title_cleaned": "adding-the-final-touches",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11442618,
+      "asset_type": "Video",
+      "title": "practicing-the-basics-20-adding-the-final-touches.mp4",
+      "created": "2018-02-23T17:04:24Z"
+    },
+    "sort_order": 241,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9474956,
+    "title": "Useful Resources & Links",
+    "created": "2018-02-23T16:28:31Z",
+    "description": "<p>Attached to this lecture, you find the module source code. Inside of the lecture, you can find some helpful links.</p>",
+    "title_cleaned": "useful-resources-links",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11705920,
+      "asset_type": "Article",
+      "title": "",
+      "created": "2018-03-15T23:17:56Z"
+    },
+    "sort_order": 240,
+    "can_be_previewed": false
+  }, {
+    "_class": "chapter",
+    "id": 2294982,
+    "created": "2018-02-28T15:08:14Z",
+    "sort_order": 239,
+    "title": "Positioning Elements with CSS",
+    "description": "Students will learn how to use the \"position\" property to change the default positioning of elements on a website",
+    "is_published": true
+  }, {
+    "_class": "lecture",
+    "id": 9520796,
+    "title": "Module Introduction",
+    "created": "2018-02-28T15:14:52Z",
+    "description": "<p>Let me introduce you to this module and to what you'll learn inside of it.</p>",
+    "title_cleaned": "module-introduction",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11530814,
+      "asset_type": "Video",
+      "title": "positioning-01-intro.mp4",
+      "created": "2018-03-02T16:19:24Z"
+    },
+    "sort_order": 238,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9520804,
+    "title": "Why Positioning will Improve our Website",
+    "created": "2018-02-28T15:15:37Z",
+    "description": "<p>Before we dive deeper - why is positioning elements important when creating a&nbsp;website? Let's take a look at our website and identify potential areas of improvement for the position of our elements!</p>",
+    "title_cleaned": "why-positioning-will-improve-our-website",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11530834,
+      "asset_type": "Video",
+      "title": "positioning-02-planned-changes.mp4",
+      "created": "2018-03-02T16:19:24Z"
+    },
+    "sort_order": 237,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9520810,
+    "title": "Understanding Positioning - The Theory",
+    "created": "2018-02-28T15:15:48Z",
+    "description": "<p>How does positioning work? Let's recap the default behaviour of elements and understand how the \"position\" property can be used to change the default position of&nbsp;elements.</p>",
+    "title_cleaned": "understanding-positioning-the-theory",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11530806,
+      "asset_type": "Video",
+      "title": "positioning-03-theory-positioning.mp4",
+      "created": "2018-03-02T16:19:24Z"
+    },
+    "sort_order": 236,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9520812,
+    "title": "Working with the \"fixed\" Value",
+    "created": "2018-02-28T15:16:07Z",
+    "description": "<p>We understood that we can apply different values to the \"position\" property. Let's take a closer look at the \"fixed\" value,&nbsp;understand its positioning context and the impact on the document flow it has&nbsp;on&nbsp;the element it is applied to.</p>",
+    "title_cleaned": "working-with-the-fixed-value",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11530800,
+      "asset_type": "Video",
+      "title": "positioning-04-fixed-theory.mp4",
+      "created": "2018-03-02T16:19:24Z"
+    },
+    "sort_order": 235,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9520818,
+    "title": "Creating a Fixed Navigation Bar",
+    "created": "2018-02-28T15:16:20Z",
+    "description": "<p>We already have a navigation bar on our website, but as soon as we scroll down the bar disappears. Let's understand how we can stick the navigation bar to the viewport with the \"fixed\" value.</p>",
+    "title_cleaned": "creating-a-fixed-navigation-bar",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11530846,
+      "asset_type": "Video",
+      "title": "positioning-05-fixing-the-project-navigation-bar.mp4",
+      "created": "2018-03-02T16:19:24Z"
+    },
+    "sort_order": 234,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9520826,
+    "title": "Using \"position\" to Add a Background Image",
+    "created": "2018-02-28T15:16:48Z",
+    "description": "<p>The navigation bar works, but we also need a background image for our Packages page. Turns out that the \"fixed\" value can also be very helpful is this situation, so let's find our more.</p>",
+    "title_cleaned": "using-position-to-add-a-background-image",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11698174,
+      "asset_type": "Video",
+      "title": "positioning-06-fixed-background.mp4",
+      "created": "2018-03-15T11:29:38Z"
+    },
+    "sort_order": 233,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9520830,
+    "title": "Understanding the Z-Index",
+    "created": "2018-02-28T15:16:59Z",
+    "description": "<p>We added the background image but the remaining elements are hidden below it. Why isn't there a property that allows us to change the element order along the z-axis? Thankfully&nbsp;the \"z-index\" does exactly that, so time to understand and apply it!</p>",
+    "title_cleaned": "understanding-the-z-index",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11530792,
+      "asset_type": "Video",
+      "title": "positioning-07-understanding-the-z-index.mp4",
+      "created": "2018-03-02T16:19:23Z"
+    },
+    "sort_order": 232,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9520834,
+    "title": "Adding a Badge to our Package",
+    "created": "2018-02-28T15:17:17Z",
+    "description": "<p>The \"Plus\" plan is the #1 choice for our customers and our recommendation. Why don't we add a badge to this package which indicates exactly what? Let me show you how the \"absolute\" and \"relative\" values work together and make the positioning of the badge a breeze!</p>",
+    "title_cleaned": "adding-a-badge-to-our-package",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11698212,
+      "asset_type": "Video",
+      "title": "positioning-08-adding-a-badge-to-our-package.mp4",
+      "created": "2018-03-15T11:32:56Z"
+    },
+    "sort_order": 231,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9520838,
+    "title": "Styling & Positioning our Badge with \"absolute\" and \"relative\"",
+    "created": "2018-02-28T15:17:35Z",
+    "description": "<p>We added the badge but the positioning is not perfect yet&nbsp;and we definitely need to add more style to it. So let's continue!</p>",
+    "title_cleaned": "styling-positioning-our-badge-with-absolute-and-relative",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11530830,
+      "asset_type": "Video",
+      "title": "positioning-09-styling-and-positioning-our-badge.mp4",
+      "created": "2018-03-02T16:19:24Z"
+    },
+    "sort_order": 230,
+    "can_be_previewed": false
+  }, {
+    "_class": "lecture",
+    "id": 9520842,
+    "title": "Diving Deeper into Relative Positioning",
+    "created": "2018-02-28T15:17:47Z",
+    "description": "<p>The \"relative\" value was very helpful to position the badge, but did we really understand how it works? Let's dive deeper and find out more about its positioning context and its impact on the positioning context on&nbsp;the element it is applied to.</p>",
+    "title_cleaned": "diving-deeper-into-relative-positioning",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11530850,
+      "asset_type": "Video",
+      "title": "positioning-10-diving-deeper-into-relative-positioning.mp4",
+      "created": "2018-03-02T16:19:24Z"
+    },
+    "sort_order": 229,
+    "can_be_previewed": false
+  }, {
+    "_class": "quiz",
+    "id": 4406186,
+    "title": "Are you a \"position\" expert?",
+    "type": "simple-quiz",
+    "created": "2018-03-19T09:18:23Z",
+    "description": "<p>We learned a lot about the position property in this module so far. Let's now practice this knowledge in this quiz before we continue!</p>",
+    "title_cleaned": "",
+    "is_published": true,
+    "sort_order": 228,
+    "object_index": 3,
+    "is_draft": false,
+    "version": 1,
+    "duration": 0,
+    "pass_percent": 70
+  }, {
+    "_class": "lecture",
+    "id": 9520850,
+    "title": "Working with \"overflow\" and Relative Positioning",
+    "created": "2018-02-28T15:18:18Z",
+    "description": "<p>With&nbsp;\"relative\" we can&nbsp;move our element without any limitations -&nbsp;even outside of its parent. In case&nbsp;this is our intention that's ok, but what if we want to make the element invisible once it leaves the parent element? Then we need \"overflow\"...</p>",
+    "title_cleaned": "working-with-overflow-and-relative-positioning",
+    "is_published": true,
+    "transcript": "",
+    "is_downloadable": true,
+    "is_free": false,
+    "asset": {
+      "_class": "asset",
+      "id": 11530832,
+      "asset_type": "Video",
+      "title": "positioning-11-working-with-overflow.mp4",
+      "created": "2018-03-02T16:19:24Z"
+    },
+    "sort_order": 227,
+    "can_be_previewed": false
+  }]
+}
